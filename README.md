@@ -16,7 +16,7 @@ to fill.</h4>
 		 (3)  |   (9)    |   (6)          <br>
 	---------------------------					<br>		
 		      |   (10)   |	   	   				<br>		
-		      +----------+ 	       				<br></b></p>
+		      +--------+ 	       				<br></b></p>
 </div>
 <ul>
   <li>Positon 1 to 6 -> You will score according to the number of dices
